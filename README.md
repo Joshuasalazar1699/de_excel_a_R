@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Curso Profesional "De Excel a R" <a href='http://www.datalatam.com/'><img src='img/logo_datalatam.png' align="right" height="130" /></a>
+# Curso Profesional "De Excel a R" <a href='http://www.datalatam.com/'><img src='http://www.datalatam.com/static/img/logo-datalatam-transparent.png' align="right" height="130" /></a>
 
 <!-- badges: start -->
 
